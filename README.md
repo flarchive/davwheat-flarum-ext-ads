@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of davwheat/flarum-ext-ads.** Not for installation: use [Packagist](https://packagist.org/packages/davwheat/flarum-ext-ads) or the [upstream repository](https://github.com/davwheat/flarum-ext-ads).
 
-**0** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.2.0`
+**15** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v0.0.1) |
+| `0.0.2` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v0.0.2) |
+| `0.0.3` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v0.0.3) |
+| `0.0.4` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v0.0.4) |
+| `0.0.5` | 2021-08-06 | `^1.0.4` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v0.0.5) |
+| `0.0.6` | 2021-08-06 | `^1.0.4` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v0.0.6) |
+| `0.0.7` | 2021-08-07 | `^1.0.4` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v0.0.7) |
+| `0.0.8` | 2021-08-07 | `^1.0.4` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v0.0.8) |
+| `0.0.9` | 2021-08-07 | `^1.0.4` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v0.0.9) |
+| `1.0.0` | 2021-08-07 | `^1.0.4` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-ads/tree/archive/v1.0.0) |
+
+[View all 15 versions](https://github.com/flarchive/davwheat-flarum-ext-ads/tags)
 
 Catalog entry: [packages/davwheat-flarum-ext-ads.json](https://github.com/flarchive/archive-index/blob/main/packages/davwheat-flarum-ext-ads.json)
 
